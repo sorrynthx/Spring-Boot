@@ -1,2 +1,2 @@
-# Spring-Security
-spring security study
+# Spring Boot
+spring Boot study
