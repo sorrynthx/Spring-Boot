@@ -26,7 +26,6 @@ public class ProjectSecurityConfig {
 		  							.httpBasic(Customizer.withDefaults());
         return http.build();
         
-        
         /**
          *  모든 request 거절
          *  Configuration to deny all the requests
@@ -46,5 +45,8 @@ public class ProjectSecurityConfig {
         return http.build();*/
         
 	}
+	
+	
+	
 	
 }
